@@ -9,6 +9,8 @@ public class ejercicio2 {
         double numero2;
         double resultado;
 
+        System.out.println("A continuación vamos a sumar dos numeros");
+
         System.out.println("ingrese un numero");
         numero1= lector.nextDouble();
 
