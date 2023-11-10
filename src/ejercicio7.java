@@ -9,6 +9,9 @@ public class ejercicio7 {
         double longitud;
         double area;
 
+        System.out.println("A continuación hayaremos la longitud y el area de un circulo con el valor del radio");
+
+
         System.out.println("ingrese la medida del radio en cm");
         radio = lector.nextDouble();
 
