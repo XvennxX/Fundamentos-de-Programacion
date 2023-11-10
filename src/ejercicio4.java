@@ -8,6 +8,8 @@ public class ejercicio4{
         double euro;
         double resultado;
 
+          System.out.println("A continuación convertiremos euros a dolares");
+
         System.out.println("ingrese el valor en Euros que desea convertir a Dolares");
         euro= lector.nextDouble();
 
