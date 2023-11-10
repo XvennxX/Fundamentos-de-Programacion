@@ -8,6 +8,9 @@ public class ejercicio3 {
         double numero;
         double resultado;
 
+        System.out.println("A continuación vamos a elevar un numero al cuadrado");
+
+
         System.out.println("ingrese el numero que desea elevar al cuadrado");
         numero= lector.nextDouble();
 
