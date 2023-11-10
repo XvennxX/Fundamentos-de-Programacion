@@ -9,7 +9,7 @@ public class ejercicio1 {
         double altura;
         double area;
 
-        System.out.println("A continuación vamos a hayar el área de un triangulo");
+        System.out.println("A continuación vamos a hallar el área de un triangulo");
 
 
         System.out.println("ingrese el valor de la base");
