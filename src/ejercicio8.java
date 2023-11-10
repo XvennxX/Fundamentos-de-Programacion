@@ -10,7 +10,7 @@ public class ejercicio8 {
         double numero3;
         double promedio;
 
-        System.out.println("A continuación hayaremos la el pormedio de tres numeros");
+        System.out.println("A continuación hallaremos la el pormedio de tres numeros");
 
         System.out.println("ingrese el primero numero");
         numero1 = lector.nextDouble();
