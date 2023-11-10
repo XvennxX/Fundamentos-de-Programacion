@@ -9,7 +9,7 @@ public class ejercicio5 {
         double area;
         double perimetro;
 
-        System.out.println("A continuación hayaremos en valor del area y perimetro de un cuadrado con la medida del lado");
+        System.out.println("A continuación hallaremos en valor del area y perimetro de un cuadrado con la medida del lado");
 
 
         System.out.println("ingrese la medida de un lado del cuadrado en cm");
