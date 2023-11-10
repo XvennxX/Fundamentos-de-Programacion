@@ -10,6 +10,8 @@ public class ejercicio6 {
         double area ;
         double volumen;
 
+        System.out.println("A continuación hayaremos el area y perimetro de un cilindro");
+
         System.out.println("ingrese la medida del radio en cm");
         radio = lector.nextDouble();
 
